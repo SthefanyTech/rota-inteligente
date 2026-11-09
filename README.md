@@ -23,4 +23,4 @@ As tecnologias serão definidas e implementadas gradualmente durante o desenvolv
 
 ## 👩‍💻 Desenvolvido por
 
-Sthefany — estudante de Análise e Desenvolvimento de Sistemas.
+Sthefany Soares — estudante de Análise e Desenvolvimento de Sistemas.
