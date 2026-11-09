@@ -1,26 +1,32 @@
-# 🚚 Rota Inteligente
+🚚 Rota Inteligente
 
-Sistema em desenvolvimento para auxiliar na organização e no acompanhamento de operações logísticas.
+O Rota Inteligente é um projeto em desenvolvimento com o objetivo de explorar soluções tecnológicas para organização e acompanhamento de processos logísticos.
 
-## 🎯 Objetivo
+A proposta é desenvolver um sistema que auxilie na organização de informações de entregas e no planejamento de rotas.
 
-O Rota Inteligente é um projeto de portfólio que busca explorar como a tecnologia pode ajudar a organizar informações logísticas e apoiar o planejamento de rotas.
+🎯 Objetivo
 
-## 💡 Funcionalidades planejadas
+Aplicar conhecimentos de desenvolvimento de sistemas na criação de uma solução voltada à área de logística, utilizando tecnologia para facilitar a organização e o acompanhamento de entregas.
 
-- Cadastro e organização de informações de entregas.
-- Registro de origem e destino.
-- Consulta de informações das rotas.
-- Possibilidade de aprimorar o planejamento logístico ao longo do desenvolvimento.
+⚙️ Funcionalidades planejadas
 
-## 🛠️ Tecnologias
+Cadastro e organização de entregas.
 
-As tecnologias serão definidas e implementadas gradualmente durante o desenvolvimento.
+Registro de origem e destino.
 
-## 📚 Status do projeto
+Consulta de rotas.
 
-🚧 Em fase inicial de planejamento e desenvolvimento.
+Recursos para aprimorar o planejamento logístico.
 
-## 👩‍💻 Desenvolvido por
+💻 Tecnologias
 
-Sthefany Soares — estudante de Análise e Desenvolvimento de Sistemas.
+As tecnologias serão definidas e implementadas gradualmente durante o desenvolvimento do projeto.
+
+📌 Status do projeto
+
+Em fase inicial de desenvolvimento.
+
+👩‍💻 Desenvolvido por
+
+Sthefany Soares
+Estudante de Análise e Desenvolvimento de Sistemas.
